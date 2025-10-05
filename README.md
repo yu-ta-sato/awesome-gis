@@ -536,6 +536,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Cartopy](http://scitools.org.uk/cartopy/) - A library providing cartographic tools for python for plotting spatial data.
 - [Centroids](https://github.com/lyzidiamond/centroids) - This application reads a valid geojson FeatureCollection and returns a valid geojson FeatureColleciton of centroids.
 - [chupaESRI](https://github.com/johnjreiser/chupaESRI) - ChupaESRI is a Python module/command line tool to extract features from ArcGIS Server map services.
+- [city2graph](https://github.com/c2g-dev/city2graph) - Python library for converting geospatial datasets into graphs (networks) for geospatial network analysis and GeoAI with GNNs (Graph Neural Networks).
 - [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask.
 - [Descartes](https://pypi.python.org/pypi/descartes) - Plot geometries in matplotlib.
 - [eo-box](https://github.com/benmack/eo-box) - Earth observation processing framework for machine learning in Python.
